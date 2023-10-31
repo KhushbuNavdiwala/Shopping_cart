@@ -1,3 +1,20 @@
+# Shopping_cart web application using React.js with TypeScript
+In this project, I try to implement a fully functional Shopping cart using React.js, typescript, and Bootstrap.
+
+
+# Features
+Add, remove, and update products in the cart.\
+Calculate and display the total price.\
+A responsive user interface with a modern design.\
+Built with React, TypeScript, and Tailwind CSS for maintainability and scalability.
+# Demo
+![image](https://github.com/KhushbuNavdiwala/Shopping_cart/assets/77695748/31dcd9a4-3a20-4036-a76a-83aabf16ff54)
+![image](https://github.com/KhushbuNavdiwala/Shopping_cart/assets/77695748/8b89fd0c-0a11-481b-978d-74ddca9f1177)
+![image](https://github.com/KhushbuNavdiwala/Shopping_cart/assets/77695748/3370325b-2523-444f-a642-00c5ca477a6b)
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
