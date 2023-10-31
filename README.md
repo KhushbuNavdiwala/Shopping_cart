@@ -9,6 +9,7 @@ A responsive user interface with a modern design.\
 Built with React, TypeScript, and Tailwind CSS for maintainability and scalability.
 # Demo
 ![image](https://github.com/KhushbuNavdiwala/Shopping_cart/assets/77695748/31dcd9a4-3a20-4036-a76a-83aabf16ff54)
+
 ![image](https://github.com/KhushbuNavdiwala/Shopping_cart/assets/77695748/43694e5e-e3f4-450a-86e0-5058f027ef28)
 
 ![image](https://github.com/KhushbuNavdiwala/Shopping_cart/assets/77695748/3370325b-2523-444f-a642-00c5ca477a6b)
